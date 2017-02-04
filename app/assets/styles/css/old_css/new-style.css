@@ -1,0 +1,374 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Navigation */
+.navbar {
+    min-height: 180px;
+}
+
+.nav > li {
+    padding: 50px;
+}
+
+.navbar-right {
+    padding-top: 20px;
+}
+
+#fh5co-header > .navbar li a {
+    color: #005fa5;
+	font-size: 1.2em;
+
+}
+
+#fh5co-header > .navbar li.active a > span .border {
+    background: #662c88;
+}
+
+
+#fh5co-header > .navbar li a > span .border::before {
+    background: #662c88;
+	
+}
+
+.contact-top{ margin-top: -20px; }
+
+.contact-top h3 { color: #005fa5; text-decoration: none; padding-top:-10px; text-transform: uppercase;}
+
+.contact-top h2{color:#662c88;}
+
+.contact-top a, .contact-top a:hover { text-decoration: none; }
+
+@media only screen and (max-width: 1500px) {
+
+.nav > li {
+    padding: 30px;
+}
+
+}
+
+@media only screen and (max-width: 1300px) {
+
+.nav > li {
+    padding: 15px;
+}
+
+}
+
+@media only screen and (max-width: 1175px) {
+
+.nav > li {
+    padding: 5px;
+}
+
+.container-fluid > .navbar-header { height: 200px; }
+}
+
+/* Slideshow */
+
+.owl-carousel-fullwidth .item img {
+	max-width: 90%;
+	display: inherit;
+	padding: 20px;
+	padding-left: 5.25%;
+}
+
+.owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead {
+    margin-bottom: 0px;
+    text-transform: none;
+  
+}
+
+.fh5co-owl-text h1{
+	font-size: 1.75em;
+	color: white;
+	font-weight: 200;
+}
+
+.btn {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+	border-radius:0px;
+	border-color: white;
+	font-size: 1.2em;
+}
+
+.btn a { text-decoration:none; border-bottom: none !important;}
+
+.btn-default {
+    color: white;
+    background-color: transparent;
+	border: 1px solid white !important;
+}
+
+
+
+.btn-default:hover {
+    color: white;
+    background-color: #005fa5;
+	border: 1px solid white !important;
+}
+.btn-qualify { margin: 50px;}
+
+.text-1 { padding-top: 100px; }
+
+/* Portrait  iphone6 */
+@media only screen and (max-device-width: 375px)  { 
+  
+  .owl-carousel-fullwidth .item img {
+	-webkit-padding: 20px 20px 20px 80px;
+	-moz-padding: 20px;
+}
+
+}
+
+/* Landscape  iphone6 */
+@media only screen and (max-device-width: 736px)  { 
+  
+  .owl-carousel-fullwidth .item img {
+	-webkit-padding: 20px 0px 20px 140px;
+	-moz-padding: 20px;
+}
+
+}
+
+
+/* Main Section */
+
+.alz-title h2 { color: #005fa5; text-transform: uppercase;}
+
+
+/* Middle Section */
+
+.alz-bkground { 
+   background: url(../../../../imgs/cognite_banner-background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 200px;
+  color: white;
+  padding: 40px;
+ 
+	}
+
+.alz-bkground h2 { color:white; text-transform:uppercase; font-size: 2em; }
+
+.alz-bkground p { color:white; font-size: 1.5em; }
+
+
+
+/* Landscape  iphone6 */
+@media only screen and (max-device-width: 736px)  { 
+  .alz-bkground { 
+	  height: 310px;
+	  padding: 50px;
+	}
+
+}
+
+/* Portrait  iphone6 */
+@media only screen and (max-device-width: 375px)  { 
+  .alz-bkground { 
+	  height: 550px;
+	  padding: 50px;
+	}
+
+}
+
+/* Portrait  iphone5 */
+@media only screen and (max-device-width: 320px)  { 
+  .alz-bkground { 
+	  height: 520px;
+	  padding: 15px;
+	}
+
+}
+
+/* Qualify Section */
+
+.qualify-section h2 { color: #662c88; text-transform: uppercase;}
+
+.btn-2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+	border-radius:0px;
+	border-color: red;
+	
+}
+
+.btn-2 a { text-decoration:none; color: #005fa5; border-bottom: none !important;}
+
+.btn-2 a:hover { color: white;}
+
+.btn-default-2{
+    color: #005fa5;
+    background-color: transparent;
+	border: 1px solid #005fa5 !important;
+}
+
+.btn-default-2:hover {
+    color: white;
+    background-color: #005fa5;
+	border: 1px solid white !important;
+}
+.btn-qualify-2 { margin: 50px; padding: 10px;}
+
+
+/* About Page */
+
+.alz-bkground-2 { 
+   background: url(../../../../imgs/cognite_banner-background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 380px;
+  color: white;
+  padding: 40px;
+ 
+	}
+
+.alz-bkground-2 h2 { color:white; text-transform:uppercase; font-size: 2em; padding-top: 150px; }
+
+.alz-bkground-2 p { color:white; font-size: 1.5em; }
+
+.quick-facts h2 { color: #662c88;}
+
+.quick-facts h4 { padding: 0 50px 0 50px;}
+
+.compensation h3 { color: #005fa5; }
+
+.compensation { border-bottom: 1px solid #005fa5;}
+
+
+
+@media only screen and (max-device-width: 767px) {
+.alz-bkground-2 {height: 510px;}
+	
+.fh5co-feature-border {
+  border-left: none; }
+
+.compensation { border-bottom: none;}
+}
+
+/* Landscape  iphone6 */
+@media only screen and (max-device-width: 736px)  { 
+  .alz-bkground-2{ 
+	  height: 410px;
+	  padding: 50px;
+	}
+
+}
+
+/* Portrait iphone6 */
+@media only screen and (max-device-width: 375px) { 
+  
+  .alz-bkground-2 { 
+	  height: 650px;
+	  padding: 50px;
+	}
+
+}
+
+/* Portrait  iphone5 */
+@media only screen and (max-device-width: 320px)  { 
+  .alz-bkground-2 { 
+	  height: 720px;
+	  padding: 40px;
+	}
+
+}
+
+
+
+
+
+
+/* Questionnaire Section */
+.alz-bkground-3 { 
+   background: url(../../../../imgs/cognite_banner-background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 200px;
+  padding: 40px;
+ 
+	}
+	
+iframe { padding: 50px; height: 1100px; width: 100%; border: 0; }
+
+
+
+
+/* Portrait iphone6 */
+@media only screen and (max-device-width: 375px) { 
+  
+  iframe { 
+	  height: 800px;
+	  width: 370px;
+	  padding: 20px;
+	}
+
+}
+
+
+/* Locations Section */
+
+.locations li{ display: block; }
+
+/* FAQ Section */
+
+.faqs-text h2 { color: #005fa5; }
+
+
+.faqs-text a { color: #005fa5; text-decoration:none; }
+
+.btn-3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+	border-radius:0px;
+	
+}
+
+.btn-3 a { text-decoration:none; color: #005fa5; border-bottom: none !important;}
+
+.btn-3 a:hover { color: white;}
+
+.btn-default-3{
+    color: white;
+    background-color: #005fa5;
+	border: 1px solid #005fa5 !important;
+}
+
+.btn-default-3:hover {
+    color: #005fa5;
+    background-color: transparent;
+	border: 1px solid #005fa5 !important;
+}
+.btn-faq { margin: 20px; padding: 5px;}
+
+
+/* Footer Section 
+footer {
+	color: #343434;
+	bottom: 0;
+	border-top-width: 2px;
+	border-top-color: #AFBD21;
+	padding-top: 10px;
+	text-align: right;
+}
+
+footer p { padding: 2em; }*/

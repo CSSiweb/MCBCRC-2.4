@@ -1,0 +1,1527 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 250px;
+    background-color: lightgrey;
+}
+
+.flex-item {
+    background-color: cornflowerblue;
+    width: 30%;
+	margin: 20px;
+	padding: 20px;
+    height: 100px;
+}
+
+
+	.st0
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image3
+{
+	background-image : url(../../../../css/image3.png);
+	background-repeat : no-repeat;
+}
+.st1
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st2
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st3
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image
+{
+	background-image : url(../../../../css/image.png);
+	background-repeat : no-repeat;
+}
+.image2
+{
+	background-image : url(../../../../css/image2.png);
+	background-repeat : no-repeat;
+}
+.image1
+{
+	background-image : url(../../../../css/image1.png);
+	background-repeat : no-repeat;
+}
+.image26
+{
+	background-image : url(../../../../css/image26.png);
+	background-repeat : no-repeat;
+}
+.st4
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+	opacity : 0.9;
+	filter: alpha(opacity=90) progid:DXImageTransform.Microsoft.Alpha(opacity=90) ;
+}
+.image7
+{
+	background-image : url(../../../../css/image7.png);
+	background-repeat : no-repeat;
+}
+.st5
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st6
+{
+	background : #CDCFD0;
+	background : rgba(205, 207, 208, 1);
+	border-style : Solid;
+	border-color : #808081;
+	border-color : rgba(128, 128, 129, 1);
+	border-width : 1px;
+}
+.st7
+{
+	background : #58595B;
+	background : rgba(88, 89, 91, 1);
+}
+.image11
+{
+	background-image : url(../../../../css/image11.png);
+	background-repeat : no-repeat;
+}
+.image9
+{
+	background-image : url(../../../../css/image9.png);
+	background-repeat : no-repeat;
+}
+.image6
+{
+	background-image : url(../../../../css/image6.png);
+	background-repeat : no-repeat;
+}
+.st8
+{
+	border-style : Solid;
+	border-color : #58595B;
+	border-color : rgba(88, 89, 91, 1);
+	border-width : 1px;
+}
+.stomach_2_
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st9
+{
+	background : #CDCFD0;
+	background : rgba(205, 207, 208, 1);
+	border-style : Solid;
+	border-color : #808081;
+	border-color : rgba(128, 128, 129, 1);
+	border-width : 1px;
+}
+.image5
+{
+	background-image : url(../../../../css/image5.png);
+	background-repeat : no-repeat;
+}
+.st10
+{
+	background : #58595B;
+	background : rgba(88, 89, 91, 1);
+}
+.image32
+{
+	background-image : url(../../../../css/image32.png);
+	background-repeat : no-repeat;
+}
+.st11
+{
+	background : #58595B;
+	background : rgba(88, 89, 91, 1);
+}
+.st12
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.image27
+{
+	background-image : url(../../../../css/image27.png);
+	background-repeat : no-repeat;
+}
+.image36
+{
+	background-image : url(../../../../css/image36.png);
+	background-repeat : no-repeat;
+}
+.st13
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st14
+{
+	border-style : Solid;
+	border-color : #58595B;
+	border-color : rgba(88, 89, 91, 1);
+	border-width : 1px;
+}
+.st15
+{
+	border-style : Solid;
+	border-color : #00A551;
+	border-color : rgba(0, 165, 81, 1);
+	border-width : 1px;
+}
+.st16
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st17
+{
+	border-style : Solid;
+	border-color : #58595B;
+	border-color : rgba(88, 89, 91, 1);
+	border-width : 1px;
+}
+.st18
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st19
+{
+	background : #D2A709;
+	background : rgba(210, 167, 9, 1);
+}
+.st20
+{
+	background : #CDCFD0;
+	background : rgba(205, 207, 208, 1);
+	border-style : Solid;
+	border-color : #808081;
+	border-color : rgba(128, 128, 129, 1);
+	border-width : 1px;
+}
+.st21
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
+}
+.st22
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+	opacity : 0.9;
+	filter: alpha(opacity=90) progid:DXImageTransform.Microsoft.Alpha(opacity=90) ;
+}
+.st23
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.image4
+{
+	background-image : url(../../../../css/image4.png);
+	background-repeat : no-repeat;
+}
+.st24
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st25
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image15
+{
+	background-image : url(../../../../css/image15.png);
+	background-repeat : no-repeat;
+}
+.st26
+{
+	border-style : Solid;
+	border-color : #00A551;
+	border-color : rgba(0, 165, 81, 1);
+	border-width : 1px;
+}
+.st27
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
+}
+.image20
+{
+	background-image : url(../../../../css/image20.png);
+	background-repeat : no-repeat;
+}
+.image33
+{
+	background-image : url(../../../../css/image33.png);
+	background-repeat : no-repeat;
+}
+.st28
+{
+	border-style : Solid;
+	border-color : #58595B;
+	border-color : rgba(88, 89, 91, 1);
+	border-width : 1px;
+}
+.st29
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st30
+{
+	background : #EDEEEE;
+	background : rgba(237, 238, 238, 1);
+}
+.st31
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st32
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st33
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st34
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st35
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st36
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st37
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st38
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st39
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st40
+{
+	border-style : Solid;
+	border-color : #00A551;
+	border-color : rgba(0, 165, 81, 1);
+	border-width : 1px;
+}
+.st41
+{
+	border-style : Solid;
+	border-color : #00A551;
+	border-color : rgba(0, 165, 81, 1);
+	border-width : 1px;
+}
+.image19
+{
+	background-image : url(../../../../css/image19.png);
+	background-repeat : no-repeat;
+}
+.st42
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st43
+{
+	border-style : Solid;
+	border-color : #D2A709;
+	border-color : rgba(210, 167, 9, 1);
+	border-width : 1px;
+}
+.st44
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st45
+{
+	background : #58595B;
+	background : rgba(88, 89, 91, 1);
+}
+.st46
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.image18
+{
+	background-image : url(../../../../css/image18.png);
+	background-repeat : no-repeat;
+}
+.st47
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st48
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st49
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st50
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st51
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image17
+{
+	background-image : url(../../../../css/image17.png);
+	background-repeat : no-repeat;
+}
+.st52
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
+}
+.image38
+{
+	background-image : url(../../../../css/image38.png);
+	background-repeat : no-repeat;
+}
+.st53
+{
+	background : #58595B;
+	background : rgba(88, 89, 91, 1);
+}
+.image24
+{
+	background-image : url(../../../../css/image24.png);
+	background-repeat : no-repeat;
+}
+.st54
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st55
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image39
+{
+	background-image : url(../../../../css/image39.png);
+	background-repeat : no-repeat;
+}
+.st56
+{
+	border-style : Solid;
+	border-color : #00A551;
+	border-color : rgba(0, 165, 81, 1);
+	border-width : 1px;
+}
+.st57
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
+}
+.image16
+{
+	background-image : url(../../../../css/image16.png);
+	background-repeat : no-repeat;
+}
+.st58
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st59
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st60
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.heart_2_
+{
+	background-image : url(../../../../css/heart_2_.png);
+	background-repeat : no-repeat;
+}
+.image14
+{
+	background-image : url(../../../../css/image14.png);
+	background-repeat : no-repeat;
+}
+.image25
+{
+	background-image : url(../../../../css/image25.png);
+	background-repeat : no-repeat;
+}
+.st61
+{
+	background : #CDCFD0;
+	background : rgba(205, 207, 208, 1);
+	border-style : Solid;
+	border-color : #808081;
+	border-color : rgba(128, 128, 129, 1);
+	border-width : 1px;
+}
+.image35
+{
+	background-image : url(../../../../css/image35.png);
+	background-repeat : no-repeat;
+}
+.st62
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st63
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st64
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st65
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image31
+{
+	background-image : url(../../../../css/image31.png);
+	background-repeat : no-repeat;
+}
+.image29
+{
+	background-image : url(../../../../css/image29.png);
+	background-repeat : no-repeat;
+}
+.image34
+{
+	background-image : url(../../../../css/image34.png);
+	background-repeat : no-repeat;
+}
+.st66
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.image28
+{
+	background-image : url(../../../../css/image28.png);
+	background-repeat : no-repeat;
+}
+.st67
+{
+	border-style : Solid;
+	border-color : #58595B;
+	border-color : rgba(88, 89, 91, 1);
+	border-width : 1px;
+}
+.st68
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image30
+{
+	background-image : url(../../../../css/image30.png);
+	background-repeat : no-repeat;
+}
+.st69
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st70
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image10
+{
+	background-image : url(../../../../css/image10.png);
+	background-repeat : no-repeat;
+}
+.st71
+{
+	border-style : Solid;
+	border-color : #58595B;
+	border-color : rgba(88, 89, 91, 1);
+	border-width : 1px;
+}
+.image21
+{
+	background-image : url(../../../../css/image21.png);
+	background-repeat : no-repeat;
+}
+.image23
+{
+	background-image : url(../../../../css/image23.png);
+	background-repeat : no-repeat;
+}
+.st72
+{
+	background : #58595B;
+	background : rgba(88, 89, 91, 1);
+}
+.image8
+{
+	background-image : url(../../../../css/image8.png);
+	background-repeat : no-repeat;
+}
+.st73
+{
+	background : #58595B;
+	background : rgba(88, 89, 91, 1);
+}
+.st74
+{
+	background : #00A551;
+	background : rgba(0, 165, 81, 1);
+}
+.st75
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
+}
+.st76
+{
+	background : #58595B;
+	background : rgba(88, 89, 91, 1);
+}
+.st77
+{
+	background : #CDCFD0;
+	background : rgba(205, 207, 208, 1);
+	border-style : Solid;
+	border-color : #808081;
+	border-color : rgba(128, 128, 129, 1);
+	border-width : 1px;
+}
+.image22
+{
+	background-image : url(../../../../css/image22.png);
+	background-repeat : no-repeat;
+}
+.st78
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.st79
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.image13
+{
+	background-image : url(../../../../css/image13.png);
+	background-repeat : no-repeat;
+}
+.st80
+{
+	background : #CDCFD0;
+	background : rgba(205, 207, 208, 1);
+	border-style : Solid;
+	border-color : #808081;
+	border-color : rgba(128, 128, 129, 1);
+	border-width : 1px;
+}
+.image37
+{
+	background-image : url(../../../../css/image37.png);
+	background-repeat : no-repeat;
+}
+.image12
+{
+	background-image : url(../../../../css/image12.png);
+	background-repeat : no-repeat;
+}
+.NormalCharacterStyle11
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle6
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle5
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle10
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle24
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle9
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle25
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle8
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle12
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle13
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle2
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle1
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle7
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle18
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle41
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle30
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle27
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle20
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle14
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle40
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle32
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 27px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle26
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle4
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle35
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 28px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle38
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle15
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle43
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 24px;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle28
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle42
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle17
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle31
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle19
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle23
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle16
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 30px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle37
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 25px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle36
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 25px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle29
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle34
+{
+	font-family : Arial;
+	font-size : 21px;
+	line-height : 31px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle22
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle21
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle3
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle33
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 27px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle39
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle110
+{
+	font-family : Arial;
+	font-size : 16px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle96
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 30px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle97
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle99
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle100
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle101
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle102
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle106
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle98
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle107
+{
+	font-family : Arial;
+	font-size : 73px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle108
+{
+	font-family : Arial;
+	font-size : 73px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle45
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle109
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 19px;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle105
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle104
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle103
+{
+	font-family : Arial;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle95
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 30px;
+	text-transform : uppercase;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle91
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 38px;
+	text-transform : uppercase;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle92
+{
+	font-family : Arial;
+	font-size : 18px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle93
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 38px;
+	text-transform : uppercase;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle94
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 30px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle53
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle54
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle64
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle51
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle50
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 24px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle60
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle63
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle56
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle55
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle57
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle62
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle59
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle58
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 24px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle52
+{
+	font-family : Myriad Pro;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle81
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle80
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 20px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle78
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle79
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle82
+{
+	font-family : Arial;
+	font-size : 21px;
+	line-height : 31px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle86
+{
+	font-family : Arial;
+	font-size : 18px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle89
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 38px;
+	text-transform : uppercase;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle88
+{
+	font-family : Arial;
+	font-size : 18px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle90
+{
+	font-family : Arial;
+	font-size : 18px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle87
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 38px;
+	text-transform : uppercase;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle49
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle65
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle70
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 24px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle83
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 28px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle68
+{
+	font-family : Arial;
+	font-size : 16px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle69
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 37px;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle47
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle46
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #D2A709;
+	color : rgb(210, 167, 9);
+}
+.NormalCharacterStyle67
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 30px;
+	text-transform : uppercase;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+	text-shadow : 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
+.NormalCharacterStyle66
+{
+	font-family : Arial;
+	font-size : 21px;
+	line-height : 31px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+	text-shadow : 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
+.NormalCharacterStyle77
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle75
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle72
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 27px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle74
+{
+	font-family : Arial;
+	font-size : 19px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle73
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 27px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle61
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle44
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 24px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle76
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle71
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 24px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle84
+{
+	font-family : Arial;
+	font-weight : bold;
+	font-size : 27px;
+	text-transform : uppercase;
+	color : #00A551;
+	color : rgb(0, 165, 81);
+}
+.NormalCharacterStyle85
+{
+	font-family : Arial;
+	font-size : 23px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
+.NormalCharacterStyle48
+{
+	font-family : Arial;
+	font-size : 21px;
+	color : #58595B;
+	color : rgb(88, 89, 91);
+}
